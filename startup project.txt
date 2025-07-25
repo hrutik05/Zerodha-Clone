@@ -1,13 +1,5 @@
+How To Start Code
+
 1st --> frontend folder run on 3000 port . and run using {npm start} command
 2nd --> dashboard folder run on 3001 port.and run using {npm start} command
 3rd --> backend folder run using {npm start} command .(It is automatically run on 3002 port).
-
-
-
-GitHub 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/hrutik05/Zerodha-clonee.git
-git push -u origin main
