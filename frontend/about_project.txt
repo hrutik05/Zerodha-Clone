@@ -1,0 +1,9 @@
+# Name of the Project :- Zerodha-Clone project 
+
+frontend tool :- html css js react bootstrap material ui
+backend tool :- nodejs expressjs mongodb
+testing tool :- jest
+deployment tool :- AWS(paid) netlify and vercel(free) or github pages(free) 
+GitHub Setup :- 
+
+
