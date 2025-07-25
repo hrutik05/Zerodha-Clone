@@ -1,6 +1,6 @@
 # Zerodha Clone with Working Backend & Dashboard 🪙📈
 
-This is a clone of the official [Zerodha](https://zerodha.com/) website, India’s largest stock brokerage platform. Built with modern web technologies, this project replicates the design and layout of the Zerodha homepage to practice and showcase frontend and backend development skills.
+This is a clone of the official [Zerodha](https://zerodha.com/) website, India’s largest stock brokerage platform. Built with modern web technologies, this project replicates the design and layout of the Zerodha homepage to practice and showcase frontend and backend development skills.(Due to some technical reason *SignUp Page* is not working roperly.)
 
 ## 🛠️ Tech Stack
 
